@@ -1,0 +1,17 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: 22510001_attentive
+  1: 22510001_non_attentive
+  2: 22510002_attentive
+  3: 22510002_non_attentive
+  4: 22510003_attentive
+  5: 22510003_non_attentive
+  6: 22510004_attentive
+  7: 22510004_non_attentive
+  8: 22510005_attentive
+  9: 22510005_non_attentive
+  10: 22510006_attentive
+  11: 22510006_non_attentive
