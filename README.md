@@ -117,9 +117,8 @@ Below are repository images embedded so viewers see a visual overview immediatel
 ![Functional Block Diagram](Images/Diagrams/Functional_Block_Diagram.png)
 
 ### Roboflow / Dataset screenshots
-![Example labeled image](Images/Roboflow/Example_image.png)
 ![Dataset split](Images/Roboflow/Dataset_Split.png)
-![Annotation categories](Images/Roboflow/Category_wise_Annotation.png)
+![Dataset Analysis](Images/Roboflow/Dataset_analysis.png)
 ![Category Wise Annotation](Images/Roboflow/Category_wise_Annotation.png)
 
 Empowering educators with real-time, privacy-preserving classroom insights — AI, streaming, and analytics working together for better learning outcomes. 🍎🍪
