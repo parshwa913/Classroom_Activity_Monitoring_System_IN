@@ -121,7 +121,7 @@ Below are repository images embedded so viewers see a visual overview immediatel
 ![Dataset Analysis](Images/Roboflow/Dataset_analysis.png)
 ![Category Wise Annotation](Images/Roboflow/Category_wise_Annotation.png)
 ![Summary](Images/Roboflow/Summary.jpeg)
-![Output](Images/Roboflow/Output_of_class_recording.mp4)
+<video src="Images/Roboflow/Output_of_class_recording.mp4" width="450" controls></video>
 
 Empowering educators with real-time, privacy-preserving classroom insights — AI, streaming, and analytics working together for better learning outcomes. 🍎🍪
 
