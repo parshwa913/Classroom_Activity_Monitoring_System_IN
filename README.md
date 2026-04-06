@@ -116,15 +116,15 @@ Below are repository images embedded so viewers see a visual overview immediatel
 ![Sample Custom Dataset](Images/Diagrams/Sample_Custom_Dataset.png)
 ![Functional Block Diagram](Images/Diagrams/Functional_Block_Diagram.png)
 
-### Certificate
-![Certificate](Images/Certificate.jpeg)
-
 ### Roboflow / Dataset screenshots
 ![Dataset split](Images/Roboflow/Dataset_Split.png)
 ![Dataset Analysis](Images/Roboflow/Dataset_analysis.png)
 ![Category Wise Annotation](Images/Roboflow/Category_wise_Annotation.png)
 ![Summary](Images/Roboflow/Summary.png)
 <video src="https://github.com/user-attachments/assets/56717dcc-3e5b-4924-bc1d-68e9b879458d" width="450" controls></video>
+
+### Certificate
+![Certificate](Images/Certificate.jpeg)
 
 Empowering educators with real-time, privacy-preserving classroom insights — AI, streaming, and analytics working together for better learning outcomes. 🍎🍪
 
