@@ -116,6 +116,9 @@ Below are repository images embedded so viewers see a visual overview immediatel
 ![Sample Custom Dataset](Images/Diagrams/Sample_Custom_Dataset.png)
 ![Functional Block Diagram](Images/Diagrams/Functional_Block_Diagram.png)
 
+### Certificate
+![Certificate](Images/Certificate.jpeg)
+
 ### Roboflow / Dataset screenshots
 ![Dataset split](Images/Roboflow/Dataset_Split.png)
 ![Dataset Analysis](Images/Roboflow/Dataset_analysis.png)
